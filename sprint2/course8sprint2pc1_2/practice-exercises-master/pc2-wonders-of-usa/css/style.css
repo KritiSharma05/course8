@@ -1,0 +1,51 @@
+/* Write CSS code here */
+body{
+    background-color:ghostwhite;
+}
+header{
+    background: blue;
+}
+nav.img{
+    margin-right:20px;
+    margin-bottom:20px;
+}
+nav{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: auto;
+}
+a{
+    color: white;
+    margin-right:20px;
+}
+a:hover {
+    color: hotpink;
+  }
+#im1{
+    border-radius: 20px;
+  }
+  figcaption{
+    margin-left:200px;
+  }
+  #foot{
+    color: blueviolet;
+  }
+  #p1{
+    color: black;
+  }
+  #i1{
+    width: 20px ;
+    height: 20Px;
+    margin: auto;
+    padding: 2px;
+}
+#p2
+{
+    text-align: center;
+}
+#a4{
+    color: blue;
+}
+    

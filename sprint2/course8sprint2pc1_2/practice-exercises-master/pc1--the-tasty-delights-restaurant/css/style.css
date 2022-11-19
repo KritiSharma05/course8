@@ -1,0 +1,29 @@
+/* Write CSS code here */
+body{
+    background-color: black;
+}
+ img{
+    width: 250px ;
+    height: 180Px;
+    margin: auto;
+    padding: 20px;
+}
+header{
+
+    color: white;
+    font-size: larger;
+    text-align: center;
+
+}
+main{
+    color: white;
+}
+#id1{
+    color:greenyellow;
+}
+#id2{
+    color:greenyellow;
+}
+#id3{
+    color:greenyellow;
+}

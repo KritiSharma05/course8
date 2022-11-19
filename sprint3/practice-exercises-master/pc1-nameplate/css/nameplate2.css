@@ -1,0 +1,54 @@
+/* Write CSS code here for nameplate-2 */
+.name{
+    background-color:rgb(76, 72, 72);
+    height: 60px;
+}
+li{
+    list-style-type: none;
+}
+.c1{
+    float: left;
+    padding-top: 20px;
+}
+.c2{
+    float: left;
+    margin-left: 60px;
+    padding-top: 20px;
+   
+}
+.c3{
+    float: left;
+    margin-left: 60px;
+    padding-top: 20px;
+    
+}
+.c4{
+    float: left;
+    padding-top: 20px;
+    margin-left: 380px;
+    
+}
+.s1{
+    float: left;
+    padding-top:20px;
+    margin-left: 400px;
+    color: white;
+}
+li>a{
+    color: white;
+}
+body{
+    background-color: black;
+}
+.a1{
+    display: inline-block;
+    border-radius: 10px;
+    background-color:rgb(118, 182, 246);
+    text-align: center;
+    width: 100px;
+    height: 20px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
